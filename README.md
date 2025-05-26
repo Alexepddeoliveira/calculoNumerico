@@ -76,3 +76,14 @@ python CalculoNumCompleto.py
 
 ---
 
+## 💡 Objetivo do Projeto
+
+Facilitar o **ensino e aprendizado** dos métodos numéricos por meio de uma interface acessível, com visual agradável e feedback em tempo real para cada passo dos algoritmos matemáticos.
+
+---
+
+## 📃 Licença
+
+Este projeto foi desenvolvido para fins acadêmicos e está disponível como **software livre** para fins de estudo, modificação e uso pessoal.
+
+
